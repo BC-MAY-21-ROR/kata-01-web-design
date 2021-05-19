@@ -41,7 +41,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Entregable
 - Código fuente en Github
-- La versión final de tu código deberán estar en la rama master
+- La versión final de tu código deberá estar en la rama master
 - Publicación de la página en Netlify, Github Pages o Vercel
 - Actualizar la sección **Página Web** con la dirección para el acceso a la página web publicada
 
